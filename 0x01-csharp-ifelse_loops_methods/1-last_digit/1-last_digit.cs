@@ -12,6 +12,6 @@ class Program
         else if (k == 0)
             Console.WriteLine("the last digit of {0} is {1} and is 0", number, k);
         else 
-            Console.WriteLine("the last didgit {0} is {1} and is less than 6 and not 0", number, k);
+            Console.WriteLine("the last digit {0} is {1} and is less than 6 and not 0", number, k);
     }
 }
