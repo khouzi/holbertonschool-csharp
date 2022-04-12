@@ -1,0 +1,11 @@
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp2.1/1-last_digit.deps.json
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp2.1/1-last_digit.runtimeconfig.json
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp2.1/1-last_digit.runtimeconfig.dev.json
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp2.1/1-last_digit.dll
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp2.1/1-last_digit.pdb
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.csprojAssemblyReference.cache
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.csproj.CoreCompileInputs.cache
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.AssemblyInfoInputs.cache
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.AssemblyInfo.cs
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.dll
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.pdb
