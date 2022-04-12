@@ -8,18 +8,21 @@ namespace _5_print_comb
         {
             int i, j;
 
-            for(i = 0; i <=9; i++)
+            for(i = 0; i <9; i++)
             {
-                for(j = 0; j <= 8; j++)
+                for(j = 0; j <= 9; j++)
                 {
                     if (i < j)
                     {
-                        Console.Write(i);
-                        Console.Write("{0}, ",j);
+                        if( i < 8 || j < 9)
+                        {
+                            Console.Write($"{i}{j}, ");
+                        }
+                        else
+                            Console.WriteLine($"{i}{j}");
                     }
                 }
             }
-            Console.WriteLine("79, 89");
         }
     }
 }
