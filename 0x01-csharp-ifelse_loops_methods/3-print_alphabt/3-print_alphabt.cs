@@ -8,7 +8,7 @@ namespace _2_print_alphabet
         {
             char i;
 
-            for (i = 'a'; i < 'z'; i++)
+            for (i = 'a'; i <= 'z'; i++)
                 if (i != 'q' && i != 'e')
                     Console.Write(i);
         }
