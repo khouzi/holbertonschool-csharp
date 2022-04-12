@@ -3,19 +3,19 @@
 
     class Line
     {
-        public static void PrintDiagonal(int igth)
+        public static void PrintDiagonal(int length)
         {
 	        int i, s;
 
-	        if (igth > 0)
+	        if (length > 0)
 	        {
-		    for (i = 0; i < igth; i++)
+		    for (i = 0; i < length; i++)
 		        {
 			    for (s = 0; s < i; s++)
 				    Console.Write(' ');
 			    Console.Write('\\');
 
-			    if (i == igth - 1)
+			    if (i == length - 1)
 				continue;
 
 			    Console.Write('\n');
