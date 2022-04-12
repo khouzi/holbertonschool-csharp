@@ -1,0 +1,11 @@
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp2.1/0-positive_or_negative.deps.json
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp2.1/0-positive_or_negative.runtimeconfig.json
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp2.1/0-positive_or_negative.runtimeconfig.dev.json
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp2.1/0-positive_or_negative.dll
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp2.1/0-positive_or_negative.pdb
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.csprojAssemblyReference.cache
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.csproj.CoreCompileInputs.cache
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.AssemblyInfoInputs.cache
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.AssemblyInfo.cs
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.dll
+/home/khouzi/kkk/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.pdb
