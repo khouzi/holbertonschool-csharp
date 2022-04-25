@@ -5,9 +5,7 @@
     {
         public static void Throw()
         {
-            catch
-            {
+            
                 throw new Exception();
-            }
         }
     }
