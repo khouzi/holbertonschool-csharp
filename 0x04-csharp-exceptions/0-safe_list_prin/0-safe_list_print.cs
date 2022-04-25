@@ -15,10 +15,10 @@ using System.Collections.Generic;
                 }
             }
             catch
-             {
-                return counter;
-             }
-             return counter;
+            {
+               return counter;
+            }
+            return counter;
         }
     }
 
