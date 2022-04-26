@@ -14,12 +14,16 @@ namespace Enemies
         {
             health = 0;
         }
-        /// <summury> zombie health checker </summury>
+        /// <summury> zombie health maker </summury>
         public Zombie(int value)
         {
-            if (value < 0)
+            if (value >= 0)
             {
-                throw new ArgumentException("Health must be greater tahn or equal to 0");
+                this.health = value;
+            }
+            else
+            {
+                throw new ArgumentException("Health must be greater than or equal to 0");
             }
         }
     }
