@@ -7,7 +7,7 @@ class VectorMath
 	{
 		double[] A = new double[2];
 		double[] B = new double[3];
-		double[] C = new double[]{-	1};
+		double[] C = new double[]{-1};
 
 		if (vector1.Length == 2 && vector1.Length == vector2.Length )
 		{
