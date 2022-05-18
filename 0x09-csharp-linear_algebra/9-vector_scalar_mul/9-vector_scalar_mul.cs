@@ -14,11 +14,14 @@ class VectorMath
             A[1] = vector[1] * scalar;
             return A;
         }
-        if ( vector.Length == 3)
+        else if ( vector.Length == 3)
         {
             B[0] = vector[0] * scalar;
             B[1] = vector[1] * scalar;
             return B;
         }
+
+        else
+            return C;
     }    
 }
