@@ -17,7 +17,7 @@ class VectorMath
 			
 		}
 
-		if (vector1.Length == 3 && vector1.Length == vector2.Length )
+		else if (vector1.Length == 3 && vector1.Length == vector2.Length )
 		{
 			B[0] = (vector1[0] + vector2[0]);
 			B[1] = (vector1[1] + vector2[1]);
