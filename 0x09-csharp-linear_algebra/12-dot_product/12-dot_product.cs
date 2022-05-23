@@ -1,5 +1,7 @@
 ﻿using System;
-
+/// <summary>
+/// VectorMath: Class
+/// </summary>
 class VectorMath
 {
     public static double DotProduct(double[] vector1, double[] vector2)
