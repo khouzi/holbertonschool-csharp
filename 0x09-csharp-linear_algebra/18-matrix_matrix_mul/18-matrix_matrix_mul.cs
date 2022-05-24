@@ -18,7 +18,7 @@ class MatrixMath
             {
                 for (int k = 0; k < matrix2.GetLength(1); k++)
                 {
-                    A[i, j] += matrix1[i, k] * matrix2[k, j];
+                    A[i, j] += matrix1[i, k] * matrix2[j, K];
                 }
             }
         }
