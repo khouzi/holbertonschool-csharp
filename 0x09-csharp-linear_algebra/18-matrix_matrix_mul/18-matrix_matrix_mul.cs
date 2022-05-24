@@ -16,7 +16,6 @@ class MatrixMath
         {
             for (int j = 0; j < matrix1.GetLength(1); j++)
             {
-                A[i, j] = 0;
                 for (int k = 0; k < matrix2.GetLength(1); k++)
                 {
                     A[i, j] += matrix1[i, k] * matrix2[k, j];
