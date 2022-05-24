@@ -7,7 +7,7 @@ class MatrixMath
 {
     public static double[,] MultiplyScalar(double[,] matrix, double scalar)
     {
-        if (matrix.Length != 2 || matrix.Length != 3)
+        if (matrix.Length <= 1 || matrix.GetLength(0) != matrix.GetLength(1))
         {
             return (new Double[,] { { -1 } });
         }
