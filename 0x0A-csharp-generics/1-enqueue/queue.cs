@@ -12,8 +12,10 @@ class Queue<T>
 
    public class Node
     {
-        private T value { get; set; }
+        T value { get; set; }
         public Node next { get; set; }
+
+
         public Node(T value)
         {
             this.value = value;
