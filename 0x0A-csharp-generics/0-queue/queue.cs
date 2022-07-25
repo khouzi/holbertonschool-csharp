@@ -1,5 +1,5 @@
 ﻿using System;
-/ <summary>
+///<summary>
 /// class Queue
 /// </summary>
 /// <typeparam name="T"></typeparam>//
