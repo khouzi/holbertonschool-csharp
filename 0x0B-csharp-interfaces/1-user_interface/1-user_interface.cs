@@ -78,21 +78,18 @@ public class TestObject : Base, IInteractive, IBreakable, ICollectable
     /// </summary>
     public void Break()
     {
-
     }
     /// <summary>
     /// Collect()
     /// </summary>
     public void Collect()
     {
-
     }
     /// <summary>
     /// Interact()
     /// </summary>
     public void Interact()
     {
-
     }
 }
 
