@@ -133,6 +133,6 @@ public class Decoration : Base, IInteractive, IBreakable
         else if (durability == 0)
             Console.WriteLine($"You smash the {name}. What a mess.");
         else
-            Console.WriteLine($"The {name} has been broken.");
+            Console.WriteLine($"The {name} is already broken.");
     }
 }
