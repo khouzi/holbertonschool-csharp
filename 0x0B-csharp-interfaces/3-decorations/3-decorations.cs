@@ -119,7 +119,7 @@ public class Decoration : Base, IInteractive, IBreakable
         else if (isQuestItem == true)
             Console.WriteLine($"you look at the {name}. There's a key inside.");
         else
-            Console.WriteLine($"You look at the {name}. Not much to see here");
+            Console.WriteLine($"You look at the {name}. Not much to see here.");
     }
 
     /// <summary>
