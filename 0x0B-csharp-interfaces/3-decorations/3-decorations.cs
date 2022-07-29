@@ -97,13 +97,15 @@ public class Decoration : Base, IInteractive, IBreakable
     /// <summary>
     /// durability()
     /// </summary>
+    /// <param name="name"></param>
+    /// <param name="durability"></param>
+    /// <param name="isQuestItem"></param>
     public Decoration(string name = "Decoration", int durability = 1, bool isQuestItem = false)
     {
         this.name = name;
         if (durability <= 0)
             throw new Exception("Durability must be greater than 0");
-        else
-            this.durability = durability; 
+        this.durability = durability; 
         this.isQuestItem = isQuestItem;
     }
 
