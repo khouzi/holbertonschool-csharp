@@ -51,7 +51,7 @@ public class Player
     /// <param name="damage"></param>
     public void TakeDamage(float damage)
     {
-        float Newhp = 0;
+        float Newhp = hp;
         if (damage < 0f)
         {
             damage = 0f;
@@ -70,7 +70,7 @@ public class Player
     /// </summary>
     public void HealDamage(float heal)
     {
-        float Newhp = 0;
+        float Newhp = hp;
         if (heal < 0f)
         {
             Console.WriteLine($"{name} heals 0 HP!");
