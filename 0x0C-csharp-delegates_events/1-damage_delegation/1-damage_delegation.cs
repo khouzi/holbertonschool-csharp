@@ -41,8 +41,8 @@ public class Player
     /// <summary>
     /// delegate for taking damage
     /// </summary>
-    /// <param name="damage"></param>
-    public delegate void CalculateHealth(float damage);
+    /// <param name="number"></param>
+    public delegate void CalculateHealth(float number);
 
     /// <summary>
     /// TakeDamage
@@ -53,7 +53,7 @@ public class Player
         if (damage < 0f)
         {
             damage = 0f;
-            Console.WriteLine($"{name} takes no damage!");
+            Console.WriteLine($"{name} takes 0 damage!");
         }
         else
             Console.WriteLine($"{name} takes {damage} damage!");
